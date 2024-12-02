@@ -1,0 +1,8 @@
+datasets/*
+output3/*
+output/test_data/*
+output/train_data/*
+output/val_data/*
+output/filtered/*
+output/images/*
+output/labels/*
